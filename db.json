@@ -3,7 +3,9 @@
     "wall_post": {
       "postId": 10001,
       "postType": 1,
-      "data": {},
+      "data": {
+        
+      },
       "created": "01-Mar-2017 15:45:17",
       "lastUpdated": "05-Mar-2018 15:45:17"
     },
@@ -30,10 +32,11 @@
         "userType": 1
       }
     ],
-"WabApi": [
+    "WabApi": [
+      {
         "likesCount": 10,
-    "WabApiLink": "https://my-json-server.typicode.com/SrinivasSatya/NewWall"
-
-  ]
+        "WabApiLink": "https://my-json-server.typicode.com/SrinivasSatya/NewWall"
+      }
+    ]
   }
 ]
